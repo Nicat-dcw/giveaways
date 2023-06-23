@@ -1,6 +1,6 @@
 const { MessageActionRow, MessageButton, MessageEmbed } = require('discord.js');
 const ms = require('ms');
-const Emitter = require('@smootie/emitter');
+const Emitter = require('node:events');
 
 class Manager extends Emitter {
   constructor(client, db) {
