@@ -2,7 +2,7 @@
 # @nicat.dcw/discord-giveaways
 
 [![Version](https://img.shields.io/npm/v/@nicat.dcw/discord-giveaways)]()
-[![License](https://img.shields.io/github/license/Nicat-dcw/giveaways)]()
+[![License](https://img.shields.io/github/license/Nicat-dcw/giveaways#LICENSE)]()
 
 A Giveaway module for managing and running giveaways in your Discord server with Buttons.
 
