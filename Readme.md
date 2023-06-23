@@ -15,7 +15,8 @@ npm install @nicat.dcw/discord-giveaways
 ## Usage
 
 ```javascript
-
+import Manager from '@nicat.dcw/discord-giveaways';
+const giveawayManager = new Manager(client, db);
 ```
 
 ## Features
